@@ -1,0 +1,15 @@
+{
+    "name": "nodejs-ci-cd-demo",
+    "version": "1.0.0",
+    "main": "app.js",
+    "scripts": {
+        "start": "node app.js",
+        "test": "echo \"No tests yet\""
+    },
+    "engines": {
+        "node": ">=14"
+    },
+    "dependencies": {
+        "nodejs-ci-cd-demo": "file:"
+    }
+}
